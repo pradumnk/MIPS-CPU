@@ -1,0 +1,232 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog/simulation/modelsim
+valu
+Z1 !s110 1648709625
+!i10b 1
+!s100 aah692H;5eKZL4;ih@M?e3
+I8g:ekbRm<h17MX3Z:SKME2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1648709190
+Z4 8D:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog/modified_mips.v
+Z5 FD:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog/modified_mips.v
+L0 252
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1648709625.000000
+Z8 !s107 D:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog/modified_mips.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog|D:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog/modified_mips.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+D:/Documents/Quartus Projects/EE705_Unit23_MIPS_Verilog}
+Z12 tCvgOpt 0
+vALUControl
+R1
+!i10b 1
+!s100 dofE;boeXD806Gn<e;DdX0
+Ie]`Om0Uz[CG0[Xg_BL4E73
+R2
+R0
+R3
+R4
+R5
+L0 93
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@a@l@u@control
+vcontrol
+R1
+!i10b 1
+!s100 _F>fFc<WP2c0FTf`<03F41
+ITWEWHRi60MdYfTgi?lgzE1
+R2
+R0
+R3
+R4
+R5
+L0 119
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vdata_memory
+R1
+!i10b 1
+!s100 h_N[i^jhR9n:IX@W7i94Q1
+I_g0bF2bzfM_3>Ng@<M1;R1
+R2
+R0
+R3
+R4
+R5
+L0 75
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vinstr_mem
+R1
+!i10b 1
+!s100 c0F::K2FB>3fJMBae0FTm2
+IKK`BBeiW^bn]BM30U]A:Y3
+R2
+R0
+R3
+R4
+R5
+L0 330
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vJR_Control
+R1
+!i10b 1
+!s100 Ih:Q0Oe91chz]GFzmRUGk1
+Iim5^L9JGfG0el`aloOzoP2
+R2
+R0
+R3
+R4
+R5
+L0 113
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+n@j@r_@control
+vlog_barrel_shifter_left
+R1
+!i10b 1
+!s100 RRKOX?dG3Y?;d40GTDihM1
+IKd6DXHK?gSIMjhmo5HWA[1
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vmips_16
+R1
+!i10b 1
+!s100 SET]YdUlHPH[k061ZaTU]1
+I?zMZ8fN8U8_94F1cHejj23
+R2
+R0
+R3
+R4
+R5
+L0 374
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vregister_file
+R1
+!i10b 1
+!s100 A4`cA?3R=3ZK1i^iQ4`:_1
+IE8A@N8FH`In3@ke2m1I]33
+R2
+R0
+R3
+R4
+R5
+L0 289
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+vtb_mips16
+R1
+!i10b 1
+!s100 zef1V2b035mWSeYX=9>FU1
+I_d9`=F36R75VBjY`FNBPc0
+R2
+R0
+R3
+R4
+R5
+L0 480
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
